@@ -1,8 +1,11 @@
 Uno's optimizer is a tool designed to increase windows performance meanwhile not breaking any features in windows, the tool has 23 different effective optimizions that is designed to increase fps
 and lower input delay, we aims to provide the best windows experance for users with minimal effort.
 I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THE APP, THE APP PROVIDES A RESTORE POINT POP UP, PLEASE BE RESPONSIBLE FOR YOUR OWN COMPUTER
+
 1 disable telemetry
+
 2 windows 11 settings
+
 3 mmcss optimizions
 4 disable services
 5 power optimizions
